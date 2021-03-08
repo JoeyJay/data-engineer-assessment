@@ -1,5 +1,10 @@
 **TGS Technical Assessment – Data Engineer**
 
+* Create a fork of this repository in your own GitHub account
+* Please consider your git history as this will be reviewed
+* Commit & push code regularly
+* Once complete, please send a link to your repository to martin@geminisolution.co.za and CC: elrika@geminisolution.co.za
+
 Use the Netflix csv file as your data source.
 
 **Stage 1** : Create a database to store the data using a Dimensional Modelled Design. (MSSQL / MySQL / Postgres)
