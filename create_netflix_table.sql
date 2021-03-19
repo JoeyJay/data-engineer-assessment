@@ -1,9 +1,9 @@
-CREATE TABLE netflix_data(
+CREATE TABLE netflix_data2(
     show_id VARCHAR(5) NOT NULL ,
     type VARCHAR(20) ,
     title VARCHAR (100),
-    director VARCHAR(10 , 2 ) NULL,
-    cast VARCHAR (255),
+    director VARCHAR(10) NULL,
+    cast_ VARCHAR (255),
     country VARCHAR (50),
     date_added VARCHAR (50),
     release_year SMALLINT (4),
